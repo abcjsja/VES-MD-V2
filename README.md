@@ -4,7 +4,7 @@ Theme: Blue Neon Glow ✨
 ============================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=90&pause=1000&color=FFOOO&center=true&vCenter=true&width=1000&height=150&lines=VES-MD-V2;+ULTIMATE+WHATSAPP+BOT;CREATED+BY+ISIRA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=90&pause=1000&color=FFOOO&center=true&vCenter=true&width=1000&height=150&lines=VES-MD-V2;+WHATSAPP+BOT;CREATED+BY+ISIRA" alt="Typing SVG" />
   </a>
 </p>
 
